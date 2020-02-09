@@ -1,1 +1,1 @@
-# python-selenium_training
+# repository for autotest on python+selenium training
